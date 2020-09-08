@@ -1,0 +1,9 @@
+setuptools
+numpy
+scipy
+scikit-learn<=0.19.2
+matplotlib
+Cython
+joblib
+tensorflow-gpu==1.15.0
+torch==1.6.0+cu101
